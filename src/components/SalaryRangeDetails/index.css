@@ -1,0 +1,15 @@
+.list-details {
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+.checkbox {
+  margin-right: 5px;
+}
+.label {
+  font-family: 'Roboto';
+  font-size: 16px;
+  padding-top: 0px;
+  padding-bottom: 1px;
+  color: #f8fafc;
+}
